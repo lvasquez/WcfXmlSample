@@ -1,0 +1,6 @@
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.dll.config
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.dll
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.pdb
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.dll
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.pdb
+c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.csprojResolveAssemblyReference.cache
