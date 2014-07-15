@@ -8,6 +8,10 @@ using System.ServiceModel.Web;
 using System.Text;
 using System.Xml.Serialization;
 using WcfServiceXmlSample.Models;
+using AutoMapper;
+using WcfServicesXmlSample.DO;
+using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace WcfServiceXmlSample
 {
@@ -26,6 +30,42 @@ namespace WcfServiceXmlSample
         {
             Person dPerson = GenericDataContractSerializer<Person>.DeserializeXml(xmlString);
             return dPerson;
+        }
+
+        public async Task<CategoriesViewModel> CategoriesDeSerialize(string xmlString)
+        {       
+            if (xmlString == null)
+            {
+                throw new ArgumentNullException("categories");
+            }
+            try 
+            {
+                CategoriesViewModel categories = GenericDataContractSerializer<CategoriesViewModel>.DeserializeXml(xmlString);
+                var result = Mapper.Map<CategoriesViewModel, Category>(categories);
+                
+                using (var context = new WCFEntities())
+                {                 
+                    bool categoryAvailable = context.Categories.Any(x => x.CategoryID == result.CategoryID);
+
+                    if (categoryAvailable == false)
+                    {
+                        context.Categories.Add(result);
+                        await context.SaveChangesAsync();
+                        return categories;
+                    }
+                    else 
+                    {
+                        context.Categories.Attach(result);
+                        context.Entry(result).State = EntityState.Modified;
+                        await context.SaveChangesAsync();
+                        return categories;               
+                    }                       
+                }               
+           }
+           catch (Exception ex)
+           {
+               throw new ArgumentNullException("Error to Save.", ex);
+           }
         }
     }
 }

@@ -4,3 +4,18 @@ c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServi
 c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.dll
 c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.pdb
 c:\users\luis\documents\visual studio 2013\Projects\WcfServiceXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.dll.config
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\WcfServiceXmlSample.pdb
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\obj\Debug\WcfServiceXmlSample.pdb
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\WcfServicesXmlSample.DO.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\WcfServicesXmlSample.DO.pdb
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\EntityFramework.xml
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\AutoMapper.Net4.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\AutoMapper.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\AutoMapper.xml
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\EntityFramework.SqlServer.xml
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\EntityFramework.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServiceXmlSample\bin\EntityFramework.SqlServer.dll

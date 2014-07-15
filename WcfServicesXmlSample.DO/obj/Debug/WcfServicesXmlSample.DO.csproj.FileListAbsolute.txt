@@ -1,0 +1,10 @@
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\WcfServicesXmlSample.DO.dll.config
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\WcfServicesXmlSample.DO.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\WcfServicesXmlSample.DO.pdb
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\EntityFramework.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\EntityFramework.xml
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\obj\Debug\WcfServicesXmlSample.DO.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\obj\Debug\WcfServicesXmlSample.DO.dll
+C:\Users\Luis\Documents\GitHub\WcfXmlSample\WcfServicesXmlSample.DO\obj\Debug\WcfServicesXmlSample.DO.pdb

@@ -5,6 +5,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using System.Threading.Tasks;
 using WcfServiceXmlSample.Models;
 
 namespace WcfServiceXmlSample
@@ -13,12 +14,15 @@ namespace WcfServiceXmlSample
     [ServiceContract]
     public interface IService1
     {
-
+        
         [OperationContract]
         string Serialize();
 
         [OperationContract]
         Person DesSerialize(string xmlString);
+
+        [OperationContract]
+        Task<CategoriesViewModel> CategoriesDeSerialize(string xmlString);
     }
 
 }
